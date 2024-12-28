@@ -31,9 +31,8 @@ let references = [
   {
     title: "preorder traversal",
     link: "https://www.geeksforgeeks.org/preorder-traversal-of-binary-tree/"
-  }
+  },
 ];
-
 
 
 
